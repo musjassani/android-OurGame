@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sel">#FFFFFF</color>
+    <color name="unsel">#63B7FF</color>
+    <string name="MM">Main Menu</string>
+    <string name="app_name">OurGame</string>
+    <string name="cont">Continue</string>
+    <string name="hello">Hello World, MainMenu!</string>
+    <string name="lose">Oops! try again...</string>
+    <string name="reklama">Discover How To Create Apps &amp; Games</string>
+    <string name="start_game">Start Game</string>
+    <string name="win">Congratulations! you winner!</string>
+</resources>

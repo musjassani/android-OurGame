@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pause_menu.xml",
+        "source": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\src\\main\\res\\layout\\pause_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lose.xml",
+        "source": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\src\\main\\res\\layout\\lose.xml"
+    },
+    {
+        "merged": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game.xml",
+        "source": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\src\\main\\res\\layout\\game.xml"
+    },
+    {
+        "merged": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\win.xml",
+        "source": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\src\\main\\res\\layout\\win.xml"
+    },
+    {
+        "merged": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pause.xml",
+        "source": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\src\\main\\res\\layout\\pause.xml"
+    }
+]

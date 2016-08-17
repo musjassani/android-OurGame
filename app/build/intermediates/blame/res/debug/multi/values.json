@@ -1,0 +1,197 @@
+[
+    {
+        "outputFile": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 37,
+                    "endOffset": 88
+                },
+                "from": {
+                    "file": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 518,
+                        "endColumn": 34,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 93,
+                    "endColumn": 39,
+                    "endOffset": 128
+                },
+                "from": {
+                    "file": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 480,
+                        "endColumn": 36,
+                        "endOffset": 515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 133,
+                    "endColumn": 40,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endColumn": 40,
+                        "endOffset": 290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 174,
+                    "endColumn": 44,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 44,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 41,
+                    "endOffset": 256
+                },
+                "from": {
+                    "file": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 41,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 261,
+                    "endColumn": 56,
+                    "endOffset": 313
+                },
+                "from": {
+                    "file": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 56,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 318,
+                    "endColumn": 51,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 51,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 370,
+                    "endColumn": 75,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 406,
+                        "endColumn": 72,
+                        "endOffset": 477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 49,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 49,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 496,
+                    "endColumn": 60,
+                    "endOffset": 552
+                },
+                "from": {
+                    "file": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 60,
+                        "endOffset": 403
+                    }
+                }
+            }
+        ]
+    }
+]

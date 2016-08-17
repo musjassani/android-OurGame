@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\build\\intermediates\\res\\merged\\debug\\raw\\coin.wav",
+        "source": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\src\\main\\res\\raw\\coin.wav"
+    },
+    {
+        "merged": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\build\\intermediates\\res\\merged\\debug\\raw\\win.mp3",
+        "source": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\src\\main\\res\\raw\\win.mp3"
+    },
+    {
+        "merged": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\build\\intermediates\\res\\merged\\debug\\raw\\boom.wav",
+        "source": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\src\\main\\res\\raw\\boom.wav"
+    },
+    {
+        "merged": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\build\\intermediates\\res\\merged\\debug\\raw\\main.mp3",
+        "source": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\src\\main\\res\\raw\\main.mp3"
+    },
+    {
+        "merged": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\build\\intermediates\\res\\merged\\debug\\raw\\music.mp3",
+        "source": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\src\\main\\res\\raw\\music.mp3"
+    },
+    {
+        "merged": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lose.mp3",
+        "source": "C:\\Users\\mustapha.jassani.AMJ\\AndroidStudioProjects\\OurGame\\app\\src\\main\\res\\raw\\lose.mp3"
+    }
+]
